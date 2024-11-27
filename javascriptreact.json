@@ -1,4 +1,11 @@
 {
+  "div": {
+    "prefix": "div",
+    "body": [
+      "<div className=''></div>"
+    ],
+    "description": "Basic div element with className"
+  },
   "fcc": {
     "prefix": "fcc",
     "body": [
