@@ -5,6 +5,14 @@
 		],
 		"description": "Basic div element with className"
 	  },
+
+
+
+
+
+
+
+
 	  "compt": {
 		"prefix": "compt",
 		"body": [
@@ -18,3 +26,5 @@
 		],
 		"description": "Create a component with tailwind classname"
 	  }
+
+
