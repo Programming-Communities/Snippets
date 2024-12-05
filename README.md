@@ -1,33 +1,9 @@
 ## VSCode Snippets For Web Developers
 
+ (User Snippet)
 
-if type 
-## cos
-then Snippets 
-
-
-Create a component with tailwind classname (User Snippet)
 
 ```
-const  = () => {
-  return (
-    <div className=''></div>
-  )
-}
-
-export default
-```
-
-Add
-if type 
-## div
-then Snippets 
-
-```
-<div className=''></div>
-
-```
-
 "div": {
 		"prefix": "div",
 		"body": [
@@ -35,6 +11,10 @@ then Snippets
 		],
 		"description": "Basic div element with className"
 	  },
+
+```
+
+
 
 
 
